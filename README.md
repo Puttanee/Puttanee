@@ -57,3 +57,4 @@ function showVar(form) {
         var arrayMiOne = arrayOfVal.length - 1;
         console.log(totalSquaredDiff / arrayMiOne);
 }
+![Screenshot 2022-11-29 182412](https://user-images.githubusercontent.com/119460519/204670433-2d6d930a-b2ae-4811-87c7-2849b7c83071.png)
